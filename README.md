@@ -1,4 +1,4 @@
 # tetris
 tetris game
 
-参考chvin github：https://github.com/chvin/react-tetris.git
+参考  chvin github：https://github.com/chvin/react-tetris.git
